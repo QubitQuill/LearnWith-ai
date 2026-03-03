@@ -11,7 +11,10 @@ export default function SubscriptionsPage() {
       </div>
 
       <div className="clerk-pricing-container">
-        <PricingTable />
+      <div>Subscriptions coming soon</div>
+      <div>Discounted Subscriptions coming soon in few days</div>
+
+        {/* <PricingTable /> */}
       </div>
     </div>
   );
